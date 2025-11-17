@@ -1,11 +1,10 @@
-if keyboard_check(vk.left)
+if keyboard_check(vk_left)
 {
-	xSpeed=+1
+	xSpeed =- 100
+}
+if keyboard_check(vk_right)
+{
+	xSpeed =+ 100
 }
 
-if keyboard_check(vk.right)
-{
-	xSpeed=-1
-}
-
-move_and_collide(xSpeed,ySpeed, all)
+move_and_collide(xSpeed,ySpeed,FactoryObj)

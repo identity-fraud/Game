@@ -1,2 +1,2 @@
-xSpeed=0
-ySpeed=0
+xSpeed = 0
+ySpeed = 0

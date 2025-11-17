@@ -1,12 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"PlayerObj",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"FactoryObj",
+  "eventList":[],
   "managed":true,
-  "name":"PlayerObj",
+  "name":"FactoryObj",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -31,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Player",
-    "path":"sprites/Player/Player.yy",
+    "name":"FactorySprite",
+    "path":"sprites/FactorySprite/FactorySprite.yy",
   },
   "spriteMaskId":null,
   "visible":true,
