@@ -29,10 +29,10 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":false,
+  "solid":true,
   "spriteId":{
-    "name":"Player",
-    "path":"sprites/Player/Player.yy",
+    "name":"PlayerIdle",
+    "path":"sprites/PlayerIdle/PlayerIdle.yy",
   },
   "spriteMaskId":null,
   "visible":true,
