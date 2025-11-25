@@ -1,0 +1,1 @@
+gesture_rotate_angle(359)

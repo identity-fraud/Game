@@ -24,10 +24,12 @@
   },
   "name":"Game",
   "resources":[
+    {"id":{"name":"EnemyCogObj","path":"objects/EnemyCogObj/EnemyCogObj.yy",},},
     {"id":{"name":"FactoryObj","path":"objects/FactoryObj/FactoryObj.yy",},},
     {"id":{"name":"PlayerObj","path":"objects/PlayerObj/PlayerObj.yy",},},
     {"id":{"name":"Level_Home","path":"rooms/Level_Home/Level_Home.yy",},},
     {"id":{"name":"Splashscreen","path":"rooms/Splashscreen/Splashscreen.yy",},},
+    {"id":{"name":"EnemyCog","path":"sprites/EnemyCog/EnemyCog.yy",},},
     {"id":{"name":"FactorySprite","path":"sprites/FactorySprite/FactorySprite.yy",},},
     {"id":{"name":"PlayerIdle","path":"sprites/PlayerIdle/PlayerIdle.yy",},},
     {"id":{"name":"PlayerJump","path":"sprites/PlayerJump/PlayerJump.yy",},},
