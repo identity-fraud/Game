@@ -46,4 +46,9 @@ if (image_alpha == 0)
 	room_restart();
 }
 
+if PlayObj.win = true
+{
+	
+}
+
 move_and_collide(xSpeed,ySpeed,FactoryTiles)

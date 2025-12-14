@@ -1,1 +1,1 @@
-gesture_rotate_angle(359)
+image_angle+=2
